@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "https://ilham-r.github.io/csb-dt0chg/static/css/main.b4fcef15.chunk.css",
+    "main.js": "https://ilham-r.github.io/csb-dt0chg/static/js/main.49c580f3.chunk.js",
+    "main.js.map": "https://ilham-r.github.io/csb-dt0chg/static/js/main.49c580f3.chunk.js.map",
+    "runtime-main.js": "https://ilham-r.github.io/csb-dt0chg/static/js/runtime-main.618f5aac.js",
+    "runtime-main.js.map": "https://ilham-r.github.io/csb-dt0chg/static/js/runtime-main.618f5aac.js.map",
+    "static/js/2.3b8c7738.chunk.js": "https://ilham-r.github.io/csb-dt0chg/static/js/2.3b8c7738.chunk.js",
+    "static/js/2.3b8c7738.chunk.js.map": "https://ilham-r.github.io/csb-dt0chg/static/js/2.3b8c7738.chunk.js.map",
+    "index.html": "https://ilham-r.github.io/csb-dt0chg/index.html",
+    "static/css/main.b4fcef15.chunk.css.map": "https://ilham-r.github.io/csb-dt0chg/static/css/main.b4fcef15.chunk.css.map",
+    "static/js/2.3b8c7738.chunk.js.LICENSE.txt": "https://ilham-r.github.io/csb-dt0chg/static/js/2.3b8c7738.chunk.js.LICENSE.txt",
+    "static/media/bg-intro-desktop.8be308fd.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/bg-intro-desktop.8be308fd.svg",
+    "static/media/bg-intro-mobile.c2ed38d0.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/bg-intro-mobile.c2ed38d0.svg",
+    "static/media/icon-api.74c8ad17.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/icon-api.74c8ad17.svg",
+    "static/media/icon-budgeting.ad716997.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/icon-budgeting.ad716997.svg",
+    "static/media/icon-close.c2e36e04.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/icon-close.c2e36e04.svg",
+    "static/media/icon-facebook.1e9b3338.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/icon-facebook.1e9b3338.svg",
+    "static/media/icon-hamburger.b0d311fe.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/icon-hamburger.b0d311fe.svg",
+    "static/media/icon-instagram.54d3962e.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/icon-instagram.54d3962e.svg",
+    "static/media/icon-onboarding.d74aed64.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/icon-onboarding.d74aed64.svg",
+    "static/media/icon-online.b0622b15.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/icon-online.b0622b15.svg",
+    "static/media/icon-pinterest.45264b1d.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/icon-pinterest.45264b1d.svg",
+    "static/media/icon-twitter.01a8907d.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/icon-twitter.01a8907d.svg",
+    "static/media/icon-youtube.7d6960fb.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/icon-youtube.7d6960fb.svg",
+    "static/media/image-confetti.67921b11.jpg": "https://ilham-r.github.io/csb-dt0chg/static/media/image-confetti.67921b11.jpg",
+    "static/media/image-currency.1b385bf9.jpg": "https://ilham-r.github.io/csb-dt0chg/static/media/image-currency.1b385bf9.jpg",
+    "static/media/image-mockups.48d35b17.png": "https://ilham-r.github.io/csb-dt0chg/static/media/image-mockups.48d35b17.png",
+    "static/media/image-plane.03db115d.jpg": "https://ilham-r.github.io/csb-dt0chg/static/media/image-plane.03db115d.jpg",
+    "static/media/image-restaurant.1951b576.jpg": "https://ilham-r.github.io/csb-dt0chg/static/media/image-restaurant.1951b576.jpg",
+    "static/media/logo.4d7cebc5.svg": "https://ilham-r.github.io/csb-dt0chg/static/media/logo.4d7cebc5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.618f5aac.js",
+    "static/js/2.3b8c7738.chunk.js",
+    "static/css/main.b4fcef15.chunk.css",
+    "static/js/main.49c580f3.chunk.js"
+  ]
+}
