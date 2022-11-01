@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://ilham-r.github.io/csb-dt0chg/static/css/main.b4fcef15.chunk.css",
-    "main.js": "https://ilham-r.github.io/csb-dt0chg/static/js/main.49c580f3.chunk.js",
-    "main.js.map": "https://ilham-r.github.io/csb-dt0chg/static/js/main.49c580f3.chunk.js.map",
+    "main.js": "https://ilham-r.github.io/csb-dt0chg/static/js/main.8b23a20a.chunk.js",
+    "main.js.map": "https://ilham-r.github.io/csb-dt0chg/static/js/main.8b23a20a.chunk.js.map",
     "runtime-main.js": "https://ilham-r.github.io/csb-dt0chg/static/js/runtime-main.618f5aac.js",
     "runtime-main.js.map": "https://ilham-r.github.io/csb-dt0chg/static/js/runtime-main.618f5aac.js.map",
     "static/js/2.3b8c7738.chunk.js": "https://ilham-r.github.io/csb-dt0chg/static/js/2.3b8c7738.chunk.js",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.618f5aac.js",
     "static/js/2.3b8c7738.chunk.js",
     "static/css/main.b4fcef15.chunk.css",
-    "static/js/main.49c580f3.chunk.js"
+    "static/js/main.8b23a20a.chunk.js"
   ]
 }
